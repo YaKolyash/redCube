@@ -1,0 +1,15 @@
+body{ 
+  padding: 0;
+  margin: 0;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+}
+  
+.btn-list{
+  margin-top: 10px;
+}
